@@ -20,6 +20,17 @@ public class CocheMain {
 
         System.out.println(cocheOb2);
 
+       ElectricCar electricCar = new ElectricCar();
+
+        electricCar.motorElectrico = "Ejemplo motor";
+        electricCar.color= "verde";
+        electricCar.fabricante = "Honda";
+        electricCar.modelo = "civic";
+
+        System.out.println(electricCar);
+
+
+
 
 
     }

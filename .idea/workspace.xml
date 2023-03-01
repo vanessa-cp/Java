@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="629655c1-7347-46aa-a7c3-1269cc5473d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-ob.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ByeWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/CocheMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/FoorLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Funciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Operadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Tipos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/WhilelLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CocheHibrido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CocheMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CocheMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
