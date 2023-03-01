@@ -33,6 +33,10 @@ public class CocheMain {
 
         System.out.println(electricCar2);
 
+        electricCar2.acelerar(50);
+
+        System.out.println(electricCar2);
+
 
 
 
