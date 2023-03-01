@@ -29,6 +29,10 @@ public class CocheMain {
 
         System.out.println(electricCar);
 
+        ElectricCar electricCar2 = new ElectricCar("azul", "alfa", "romeo", 1500d, 4.99, "TX2");
+
+        System.out.println(electricCar2);
+
 
 
 
