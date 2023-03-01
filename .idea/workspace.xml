@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="629655c1-7347-46aa-a7c3-1269cc5473d0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/CocheMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CocheMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/PolimorfismoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CocheMain">
+}</component>
+  <component name="RunManager" selected="Application.PolimorfismoMain">
     <configuration name="CocheMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CocheMain" />
       <module name="hello-ob" />
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FoorLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.FoorLoop" />
+    <configuration name="PolimorfismoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.PolimorfismoMain" />
       <module name="hello-ob" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PolimorfismoMain" />
         <item itemvalue="Application.CocheMain" />
         <item itemvalue="Application.SwitchCase" />
         <item itemvalue="Application.Switch" />
         <item itemvalue="Application.WhilelLoop" />
-        <item itemvalue="Application.FoorLoop" />
       </list>
     </recent_temporary>
   </component>
