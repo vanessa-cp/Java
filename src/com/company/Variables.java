@@ -17,8 +17,7 @@ public class Variables {
         //}
 
 
-        notas.binarySearch(notas, 9);
-        notas.sort(notas);
+
 
         }
     }

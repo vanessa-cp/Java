@@ -23,6 +23,10 @@ public class Coche {
 
     }
 
+    public Coche(String hondaCivic) {
+
+    }
+
     //comportamiento
 
     public void acelerar(Integer cantidad){
